@@ -1,3 +1,3 @@
 # flutter_drawing_line
 
-A new Flutter project.
+This app allows users to draw a line on the screen.
